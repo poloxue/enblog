@@ -150,7 +150,6 @@ iTerm2 allows you to maximize and minimize a pane on demand, without messing wit
 
 This shortcut for this function is `Shift+Cmd+Enter`.
 
-
 Press `Shift+Cmd+Enter`, and then it will maximize or minimize the panel where your cursor is now.
 
 ![](https://cdn.jsdelivr.net/gh/poloxue/images@main/2023-10-11-setup-your-own-iterm2-02.gif)
