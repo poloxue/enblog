@@ -7,7 +7,7 @@ tags: ["iTerm2"]
 description: "This post will introduce three solutions about how to autostart Tmux when starting iTerm2."
 ---
 
-{{< youtube 4N9wFVj9LVE >}}
+{{< youtube id="4N9wFVj9LVE" autoplay="true" >}}
 
 Hi guys, This is POLO X.
 
