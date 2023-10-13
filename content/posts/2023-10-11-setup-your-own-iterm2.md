@@ -164,3 +164,6 @@ It looks more comfortable than the default Terminal.
 
 That's all for this post.
 
+*Originally published at https://en.poloxue.com on October 12, 2023.*
+
+
