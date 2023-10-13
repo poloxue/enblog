@@ -81,7 +81,7 @@ Open the iterm colors file.
 
 It will be installed.
 
-Now let's use `Command + ,` to the open the preferences of iTerm2.
+Now let's use `Command + ,` to open the preferences of iTerm2.
 
 - Select profile.
 - Select colors tab.
@@ -144,7 +144,7 @@ We can use shortcut `CMD+D` to split panes horizontally. And use  shift command 
 
 Now, we can do different tasks in different panels.
 
-### toggle a Pane Full Screen.
+### Toggle a Pane Full Screen.
 
 iTerm2 allows you to maximize and minimize a pane on demand, without messing with existing open panes.
 
@@ -154,7 +154,7 @@ Press `Shift+Cmd+Enter`, and then it will maximize or minimize the panel where y
 
 ![](https://cdn.jsdelivr.net/gh/poloxue/images@main/2023-10-11-setup-your-own-iterm2-02.gif)
 
-### search text.
+### Search text.
 
 Press `Command+F`. Input the text we want to search. It looks more comfortable than the default Terminal.
 
