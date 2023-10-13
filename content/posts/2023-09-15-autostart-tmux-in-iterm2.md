@@ -4,7 +4,6 @@ date: "2023-09-15T21:22:36+08:00"
 draft: false
 comment: true
 tags: ["iTerm2", "Tmux"]
-description: "This post will introduce three solutions about how to autostart Tmux when starting iTerm2."
 ---
 
 {{< youtube UB1ArJ444_Q >}}
