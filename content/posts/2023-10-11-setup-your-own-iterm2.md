@@ -3,7 +3,7 @@ title: "Setup Your Own iTerm2"
 date: "2023-10-12T10:22:36+08:00"
 draft: false
 comment: true
-tags: ["iTerm2", "Tmux"]
+tags: ["iTerm2"]
 description: "This post will introduce three solutions about how to autostart Tmux when starting iTerm2."
 ---
 
