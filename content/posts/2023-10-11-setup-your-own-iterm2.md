@@ -156,10 +156,11 @@ Press `Shift+Cmd+Enter`, and then it will maximize or minimize the panel where y
 
 ### Search text.
 
-Press `Command+F`. Input the text we want to search. It looks more comfortable than the default Terminal.
+Press `Command+F`. Input the text we want to search. 
 
 ![](https://cdn.jsdelivr.net/gh/poloxue/images@main/2023-10-11-setup-your-own-iterm2-03.gif)
 
+It looks more comfortable than the default Terminal.
 
 That's all for this post.
 
