@@ -115,18 +115,16 @@ Do you wanna more choices for color presets?
 
 Let me share you a web site: [iterm2colorsschemes](https://iterm2colorschemes.com).
 
-Here you can get more color presets. 
+Here you can get more color presets. Let's chose one from the site - 3024 Night. 
 
-Let's install this color preset, 3024 Night. Download its itermcolors file, and install it.
+Download its itermcolors file, and install it.
 
 ```bash
 curl -Ls https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/3024%20Night.itermcolors > /tmp/3024Night.itermcolors
 open /tmp/3024Night.itermcolors
 ```
 
-Now, open the preferences -> Profiles -> Colors -> Click color presets
-
-Check whether 3024 Night has been installed.
+Open the preferences -> Profiles -> Colors -> Click color presets, and check whether 3024 Night has been installed.
 
 ## iTerm2 Tips
 
