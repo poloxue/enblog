@@ -4,9 +4,12 @@ date: "2023-09-15T21:22:36+08:00"
 draft: false
 comment: true
 tags: ["iTerm2", "Tmux"]
+description: "This post will introduce three solutions about how to autostart Tmux when starting iTerm2."
 ---
 
-This post will introduce how to make iTerm2 start into Tmux mode by default. 
+{{< youtube  >}}
+
+This post will introduce how to autostart Tmux when starting iTerm2. 
 
 By default, every time you start iTerm2, you need to enter tmux attach to enter tmux mode.
 
@@ -99,7 +102,6 @@ Sessions:
 1 - default
 Please select a session <Index or Name>(default):
 ```
-
 
 This is just a demo. The input of tmux ls has other formatting variables. If you are interested, you can continue to expand. Code snippet [github address](https://gist.github.com/poloxue/37d3d79b35964ab8d885296b84ab4b5a).
 
