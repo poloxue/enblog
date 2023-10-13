@@ -7,7 +7,7 @@ tags: ["iTerm2", "Tmux"]
 description: "This post will introduce three solutions about how to autostart Tmux when starting iTerm2."
 ---
 
-{{< youtube  >}}
+{{< youtube UB1ArJ444_Q >}}
 
 This post will introduce how to autostart Tmux when starting iTerm2. 
 
