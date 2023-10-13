@@ -11,7 +11,7 @@ description: "This post will introduce three solutions about how to autostart Tm
 
 Hi guys, This is POLO X.
 
-Today, I plan to talk about how to install iTerm2 and configure iTerm2 color presets. At the end of the video, there will be some tips about iTerm2 to share with you.
+Today, I plan to talk about how to install iTerm2 and configure iTerm2 color presets. At the end of the post, there will be some tips about iTerm2 to share with you.
 
 ## What is iTerm2?
 
