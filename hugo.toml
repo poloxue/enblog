@@ -1,0 +1,64 @@
+baseURL = "https://en.poloxue.com/"
+languageCode = "en-US"
+title = "POLOXUE's BLOG"
+theme = "ink-free"
+copyright = "Polo Xue All rights reserved"
+
+
+[params]
+  author = "POLO XUE"
+  email = "poloxue123@gmail.com"
+  avatar = "/avatar.webp"
+  description = "POLOXUE's Personal Blog"
+  toc = "floating"
+  wpm = 250
+  maxTags = 7
+	mode = "auto"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "HOME"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "POSTS"
+    url = "/posts"
+    weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    name = "TAGS"
+    url = "/tags"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "ABOUT"
+    url = "/about/"
+    weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/poloxue/"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    tabWidth = 4
+
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 2 
