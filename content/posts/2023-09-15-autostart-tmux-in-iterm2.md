@@ -14,7 +14,7 @@ I use Tmux to manage workspaces for different projects. Common IDEs generally pr
 
 Very simple!
 
-**Solution 1: A single-line shell script**
+## Solution 1: A single-line shell script
 
 First, let's see a bash script:
 
@@ -56,7 +56,7 @@ hello
 default
 ```
 
-**Solution 2: python script**
+## Solution 2: python script
 
 Can I just enter the session index to select? This single line shell script is not easy to implement. I wrote a Python script as follows:
 
@@ -107,7 +107,7 @@ It's good, but wouldn’t it be better if it uses the built-in menu?
 
 Let's continue!
 
-**Use tmux built-in menu tree**
+## Solution 3: Use tmux built-in menu tree
 
 After entering tmux mode, you can use the shortcut key `prefix-key + s` to start the tmux selection menu by default. One strength is the built-in menu can be moved by keys `jk`. 
 
