@@ -1,5 +1,5 @@
 ---
-title: "Autostart Tmux in iTerm2"
+title: "Autostart Tmux in iTerm2 - Improve Your Productivity"
 date: "2023-09-15T21:22:36+08:00"
 draft: false
 comment: true
