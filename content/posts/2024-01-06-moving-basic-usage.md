@@ -3,9 +3,11 @@ title: "Moving Basic Usage: Installation and Video Manipulation"
 date: 2024-01-06T00:09:46+08:00
 draft: false
 comment: true
+description: "In this tutorial, we’ll delve into MoviePy, a Python library designed to automate video production processes. We’ll explore its capabilities and demonstrate how it simplifies video editing tasks through simple Python code."
 ---
 
 {< youtube id="zoIq99_HJg0" autoplay="true" >}
+
 In an era dominated by short-form videos, numerous user-friendly editing software options exist. 
 
 However, for specialized video formats like eBook presentations or comic readings, streamlining the video creation process through automation stands as a crucial enhancement for efficiency.
