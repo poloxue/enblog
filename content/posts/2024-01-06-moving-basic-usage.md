@@ -6,7 +6,7 @@ comment: true
 description: "In this tutorial, we’ll delve into MoviePy, a Python library designed to automate video production processes. We’ll explore its capabilities and demonstrate how it simplifies video editing tasks through simple Python code."
 ---
 
-{< youtube id="zoIq99_HJg0" autoplay="true" >}
+{{< youtube id="zoIq99_HJg0" autoplay="true" >}}
 
 In an era dominated by short-form videos, numerous user-friendly editing software options exist. 
 
