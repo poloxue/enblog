@@ -1,5 +1,5 @@
 ---
-title: "Choosing the Right IDE for Go Development: Exploring Features and Popular Options"
+title: "IDE for Go Development: Exploring Features and Popular Options"
 date: 2024-01-07T13:23:03+08:00
 draft: false
 comment: true
