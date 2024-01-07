@@ -9,6 +9,9 @@ comment: true
 
 Why do programmers need to use an IDE?" This question frequently surfaces on various community forums. When it comes to whether one should use an Integrated Development Environment (IDE), everyone has their own viewpoint.
 
+
+![](https://cdn.jsdelivr.net/gh/poloxue/images@2024-01/2024-01-07-why-we-should-use-golang-ide-02.jpeg)
+
 In the early days, programming didn't necessitate an IDE as it was primarily centered around machine code. However, as the computer industry progressed, IDEs emerged to enhance engineering development efficiency.
 
 It's essential to grasp that an IDE primarily integrates various command tools into a user-friendly software, facilitating efficient programming practices. Its ultimate goal is to elevate project development efficiency.
