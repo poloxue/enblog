@@ -7,7 +7,9 @@ comment: true
 
 ![cover.jpeg](https://cdn.jsdelivr.net/gh/poloxue/images@2024-01/2024-01-07-why-we-should-use-golang-ide-01.jpeg)
 
-Why do programmers need to use an IDE?" This question frequently surfaces on various community forums. When it comes to whether one should use an Integrated Development Environment (IDE), everyone has their own viewpoint.
+Why do programmers need to use an IDE?" 
+
+This question frequently surfaces on various community forums. When it comes to whether one should use an Integrated Development Environment (IDE), everyone has their own viewpoint.
 
 
 ![](https://cdn.jsdelivr.net/gh/poloxue/images@2024-01/2024-01-07-why-we-should-use-golang-ide-02.jpeg)
