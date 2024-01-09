@@ -6,6 +6,8 @@ comment: true
 description: "This post covers Golang Interface. Let's dive into it."
 ---
 
+![](https://cdn.jsdelivr.net/gh/poloxue/images@2024-01/2024-01-09-understanding-of-golang-interface-01.jpeg)
+
 This post covers Golang Interface. Let's dive into it. 
 
 ## Duck Typing
