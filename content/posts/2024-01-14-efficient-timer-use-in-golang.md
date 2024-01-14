@@ -7,8 +7,6 @@ comment: true
 
 ![](https://cdn.jsdelivr.net/gh/poloxue/images@2024-01/2024-01-14-efficient-timer-use-in-golang-01.png)
 
-In the realm of concurrent programming with Go, the effective use and management of timers are pivotal for controlling program execution and resource management. 
-
 This post delves into the efficient use of timers in Go, particularly in conjunction with `select` statements, illustrating behavior patterns and best practices.
 
 ## Timers with select in Go
@@ -127,8 +125,4 @@ These comments explain each part of the code, making it easier to understand how
 ## Conclusion
 
 This example underscores the importance of correctly using and managing timers in Go's concurrent programming. Adhering to the recommendations from the Go standard library can lead to more efficient and reliable programs.
-
----
-
-This post focuses on the efficient use and management of timers in Go, providing insights into best practices for handling timed tasks in concurrent environments and methods to avoid resource wastage.
 
