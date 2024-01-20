@@ -13,7 +13,7 @@ copyright = "Polo Xue All rights reserved"
   toc = "floating"
   wpm = 250
   maxTags = 7
-	mode = "auto"
+	mode = "dark"
 
 [menu]
   [[menu.main]]
