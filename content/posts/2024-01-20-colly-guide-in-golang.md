@@ -1,5 +1,5 @@
 ---
-title: "Colly: A Comprehensive Analysis and Practical Guide to High-Performance Web Crawling in Go"
+title: "Colly: A Comprehensive Guide to High-Performance Web Crawling in Go"
 date: 2020-01-20T18:43:59+08:00
 draft: false
 ---
@@ -515,4 +515,4 @@ Perhaps this is the simplicity of Go.
 
 Finally, if you encounter any problems while using Colly, the official examples are definitely the best practice. I suggest taking the time to read them.
 
-My blog post: [Colly: A Comprehensive Analysis and Practical Guide to High-Performance Web Crawling in Go](https://en.poloxue.com/posts/2024-01-20-colly-guide-in-golang/).
+My blog post: [Colly: A Comprehensive Guide to High-Performance Web Crawling in Go](https://en.poloxue.com/posts/2024-01-20-colly-guide-in-golang/).
