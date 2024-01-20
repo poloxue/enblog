@@ -515,4 +515,4 @@ Perhaps this is the simplicity of Go.
 
 Finally, if you encounter any problems while using Colly, the official examples are definitely the best practice. I suggest taking the time to read them.
 
-My blog post: [Colly: A Comprehensive Analysis and Practical Guide to High-Performance Web Crawling in Go](https://www.poloxue.com/posts/2024-01-20-colly-guide-in-golang/).
+My blog post: [Colly: A Comprehensive Analysis and Practical Guide to High-Performance Web Crawling in Go](https://en.poloxue.com/posts/2024-01-20-colly-guide-in-golang/).
