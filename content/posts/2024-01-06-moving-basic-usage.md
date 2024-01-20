@@ -1,5 +1,5 @@
 ---
-title: "Moving Basic Usage: Installation and Video Manipulation"
+title: "MoviePy Basic Usage: Installation and Video Manipulation"
 date: 2024-01-06T00:09:46+08:00
 draft: false
 comment: true
