@@ -175,7 +175,6 @@ Using this approach, you can take appropriate measures to ensure that incorrect 
 
 Reflection is a powerful tool, but it comes at a high cost.
 
-
 It's slow because it performs dynamic type checking and indirect memory access at runtime. It also involves additional operations such as safety checks. These extra runtime operations, compared to direct static type operations, indeed add overhead.
 
 ![](https://cdn.jsdelivr.net/gh/poloxue/images@2024-01/2024-01-22-get-the-type-of-object-in-golang-04.gif)
@@ -188,5 +187,5 @@ I recommend using reflection cautiously in performance-sensitive code, or at lea
 
 In Go, understanding and working with types is key to writing effective code. This article introduced several methods for retrieving variable types, including string formatting, using the `reflect` package, as well as type assertion and type switch. With these tools, you can better understand and utilize Go's type system, leading to clearer and more efficient code.
 
-Blog post: [How to Effectively Get the Type of a Variable in Go? Exploring Various Methods](https://www.poloxue.com/posts/2024-01-22-get-the-type-of-object-in-golang/)
+Blog post: [How to Effectively Retrieve Go Variable Types? Exploring Multiple Methods](https://www.poloxue.com/posts/2024-01-22-get-the-type-of-object-in-golang/)
 
