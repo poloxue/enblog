@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep into Go's HTTP Mechanics: More Than Just Requests"
 date: 2024-01-24T15:07:32+08:00
-draft: true
+draft: false
 ---
 
 ![](https://cdn.jsdelivr.net/gh/poloxue/images@2024-01/2024-01-24-http-client-in-golang-01.png)
@@ -614,4 +614,4 @@ Errors in the example code are thrown out through panic, but real projects defin
 
 This post, guided by Python's requests documentation, has organized how the examples in the requests quick start documentation are implemented in Go. It's worth mentioning that Go also provides a clone version corresponding to requests, [GitHub address](https://github.com/levigross/grequests). I haven't looked at it yet, but interested friends can study it.
 
-Blog post: [A Guide to Go's HTTP Request System](https://en.poloxue.com/posts/2024-01-24-http-client-in-golang/)
+Blog post: [Diving Deep into Go's HTTP Mechanics: More Than Just Requests](https://en.poloxue.com/posts/2024-01-24-http-client-in-golang/)
