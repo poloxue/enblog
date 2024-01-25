@@ -1,6 +1,6 @@
 ---
-title: "Diving Deep into Go's HTTP Mechanics: More Than Just Requests"
-date: 2024-01-24T15:07:32+08:00
+title: "Diving Deep into Go's HTTP client using net/http: More Than Just Requests"
+date: 2019-08-24T15:07:32+08:00
 draft: false
 ---
 
