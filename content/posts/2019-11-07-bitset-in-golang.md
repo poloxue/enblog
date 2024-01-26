@@ -1,8 +1,10 @@
 ---
-title: "2019 11 07 Bitset in Golang"
+title: "Beyond Basics: Do You Really Understand Bitsets in Go?"
 date: 2019-11-07T15:40:46+08:00
 draft: true
 ---
+
+![](https://cdn.jsdelivr.net/gh/poloxue/images@2019-11/2019-11-07-bitset-in-golang-04.png)
 
 I previously wrote a post titled [How to Use Set in Go](https://medium.com/me/stats/post/194e7b34c949), in which I introduced the simplest application scenario of bitset, the state flag, and also mentioned the implementation idea of bitset.
 
@@ -20,7 +22,7 @@ But what if another element, such as 64 (the range of an int64 is 0-63), is adde
 
 If one int64 cannot represent it, then use multiple. The structure at this time is as follows:
 
-![bitset with multiple int64](https://cdn.jsdelivr.net/gh/poloxue/images@main/2019-11-07-bitset-in-golang-02.png)
+![bitset with multiple int64](https://cdn.jsdelivr.net/gh/poloxue/images@2019-11/2019-11-07-bitset-in-golang-02.png)
 
 A slice of int64 perfectly matches the structure above. So, we can define a new type `BitSet` as follows:
 
@@ -47,7 +49,7 @@ After defining the `BitSet` type, a new problem arises: how to locate the positi
 
 First, let's look at the distribution of binary bits in `BitSet`.
 
-![bitset binary distribution](https://cdn.jsdelivr.net/gh/poloxue/images@main/2019-11-07-bitset-in-golang-03.png)
+![bitset binary distribution](https://cdn.jsdelivr.net/gh/poloxue/images@2019-11/2019-11-07-bitset-in-golang-03.png)
 
 It looks like a grid with rows and columns. Let's assume `index` represents the row (index) and `pos` represents the column (position). The slice index goes from 0 to n, and n is related to the largest element in the collection.
 
@@ -437,7 +439,7 @@ Let's talk separately about the traversal of elements in the set. Previously, th
 
 Let's take another look at the structure of the bitset, as follows:
 
-![bitset structure](https://cdn.jsdelivr.net/gh/poloxue/images@main/2019-11-17-bitset-in-golang-02.png)
+![bitset structure](https://cdn.jsdelivr.net/gh/poloxue/images@2019-11/2019-11-07-bitset-in-golang-02.png)
 
 In the set above, the first element of the first row of `int64` is 1, with a bit set to zero at the end. By observation, it's noted that the value of the first element is whatever the number of preceding 0s.
 
