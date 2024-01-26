@@ -1,7 +1,7 @@
 ---
 title: "Efficient Slices Concatenation in Golang and a New Function in Go 1.122"
 date: 2024-01-17T19:55:50+08:00
-draft: true
+draft: false
 description: "This article will detail several efficient methods for slice concatenation, discussing their pros and cons and appropriate use cases."
 ---
 

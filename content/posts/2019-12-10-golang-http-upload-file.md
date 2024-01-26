@@ -3,6 +3,7 @@ title: "The Go Developer's Guide to HTTP File Uploads using net/http Package"
 date: 2024-01-25T15:05:54+08:00
 draft: false
 comment: true
+description: "The previous post presented a comprehensive introduction to sending HTTP requests using Go's net/http, covering all methods commonly used in daily scenarios. However, as the focus was primarily on usage, some topics, such as the implementation principles of HTTP file uploads, might still be challenging to understand without a deeper understanding of the underlying mechanics."
 ---
 
 ![](https://cdn.jsdelivr.net/gh/poloxue/images@2024-01/2024-01-25-golang-http-upload-file-01.webp)
