@@ -1,6 +1,6 @@
 ---
 title: "Exploring High-Efficiency int to string Conversion Strategies and Source Code in Go"
-date: 2024-01-20T17:47:23+08:00
+date: 2025-01-20T17:47:23+08:00
 draft: false
 description: "This post will introduce several common methods to convert `int` to `string` in Go, focusing on the performance characteristics of these methods. It will also delve into the efficient algorithm implementation of `FormatInt`."
 ---

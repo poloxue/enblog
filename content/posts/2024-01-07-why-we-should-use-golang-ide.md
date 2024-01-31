@@ -1,6 +1,6 @@
 ---
 title: "IDE for Go Development: Exploring Features and Popular Options"
-date: 2024-01-07T13:23:03+08:00
+date: 2025-01-07T13:23:03+08:00
 draft: false
 comment: true
 description: "This question frequently surfaces on various community forums. When it comes to whether one should use an Integrated Development Environment (IDE), everyone has their own viewpoint."

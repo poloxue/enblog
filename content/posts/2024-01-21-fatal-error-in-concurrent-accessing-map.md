@@ -1,6 +1,6 @@
 ---
 title: "From Fatal Errors to sync.Map: Concurrency Strategies for Maps in Go."
-date: 2024-01-21T17:15:14+08:00
+date: 2025-01-21T17:15:14+08:00
 draft: false
 comment: true
 ---

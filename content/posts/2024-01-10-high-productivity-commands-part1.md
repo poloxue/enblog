@@ -1,6 +1,6 @@
 ---
 title: "2024 01 10 High Productivity Commands Part1"
-date: 2024-01-10T14:11:04+08:00
+date: 2025-01-10T14:11:04+08:00
 draft: true
 comment: true
 description: "Today, I'm here to introduce three super cool commands that work like a charm on Unix-like systems. They're your go-to pals for changing directories and viiewing files like a boss:"

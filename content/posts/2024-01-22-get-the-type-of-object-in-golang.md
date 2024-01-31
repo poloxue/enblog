@@ -1,6 +1,6 @@
 ---
 title: "How to Effectively Retrieve Go Variable Types? Exploring Multiple Methods"
-date: 2024-01-22T18:43:54+08:00
+date: 2025-01-22T18:43:54+08:00
 draft: false
 comment: true
 ---

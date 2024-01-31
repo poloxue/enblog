@@ -1,6 +1,6 @@
 ---
 title: "2024 01 09 Understanding of Golang Interface"
-date: 2024-01-09T15:08:13+08:00
+date: 2025-01-09T15:08:13+08:00
 draft: true
 comment: true
 description: "This post covers Golang Interface. Let's dive into it."

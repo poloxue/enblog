@@ -1,6 +1,6 @@
 ---
 title: "Autostart Tmux in iTerm2 - Improve Your Productivity"
-date: "2023-09-15T21:22:36+08:00"
+date: "2024-09-15T21:22:36+08:00"
 draft: false
 comment: true
 tags: ["iTerm2", "Tmux"]

@@ -1,6 +1,6 @@
 ---
 title: "Go Version Switching: Your Complete Guide to gvm"
-date: 2024-01-08T14:45:03+08:00
+date: 2025-01-08T14:45:03+08:00
 draft: true
 comment: true
 description: "In this post, I'll share some of my thoughts on Go version management. Later on, I'll introduce a handy tool called gvm."

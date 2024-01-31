@@ -1,6 +1,6 @@
 ---
 title: "Colly: A Comprehensive Guide to High-Performance Web Crawling in Go"
-date: 2020-01-20T18:43:59+08:00
+date: 2025-01-20T18:43:59+08:00
 draft: false
 ---
 

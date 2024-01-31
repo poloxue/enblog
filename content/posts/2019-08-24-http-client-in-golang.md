@@ -1,6 +1,6 @@
 ---
 title: "Diving Deep into Go's HTTP client using net/http: More Than Just Requests"
-date: 2019-08-24T15:07:32+08:00
+date: 2025-01-01T15:07:32+08:00
 draft: false
 ---
 

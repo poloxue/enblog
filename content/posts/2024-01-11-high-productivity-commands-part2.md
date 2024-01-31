@@ -1,6 +1,6 @@
 ---
 title: "🚀 Supercharge Your Searches: A Deep Dive into fd, ripgrep, and fzf Commands"
-date: 2024-01-11T15:17:43+08:00
+date: 2025-01-11T15:17:43+08:00
 draft: false
 comment: true
 description: "Welcome to a world where searching and finding in your terminal becomes lightning-fast and user-friendly. Meet your new command-line allies: `fd`, `ripgrep`, and `fzf`."

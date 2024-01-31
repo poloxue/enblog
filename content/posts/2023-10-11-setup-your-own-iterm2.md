@@ -1,6 +1,6 @@
 ---
 title: "Setup Your Own iTerm2 - Install iTerm2 and Configure Its Color Presets"
-date: "2023-10-12T10:22:36+08:00"
+date: "2024-10-12T10:22:36+08:00"
 draft: false
 comment: true
 tags: ["iTerm2"]

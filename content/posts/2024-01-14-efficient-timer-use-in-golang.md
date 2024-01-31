@@ -1,6 +1,6 @@
 ---
 title: "Efficient Timer Use in Go: Addressing Potential Memory Leaks"
-date: 2024-01-14T15:16:48+08:00
+date: 2025-01-14T15:16:48+08:00
 draft: false
 comment: true
 description: "This post delves into the efficient use of timers in Go, particularly in conjunction with `select` statements, illustrating behavior patterns and best practices."
